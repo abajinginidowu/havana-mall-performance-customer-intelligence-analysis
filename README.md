@@ -394,7 +394,7 @@ The interactive Excel dashboard was developed to provide executive-level busines
 
 # Dashboard Preview
 
-![Dashboard Preview] (images/havana-mall-dashboard.PNG)
+![Dashboard Preview](images/havana-mall-dashboard.PNG)
 
 
 # Conclusion
