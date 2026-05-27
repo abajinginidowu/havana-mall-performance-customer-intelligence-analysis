@@ -85,7 +85,7 @@ Havana Mall Database
 havana mall performance-customer-intelligence-analysis/
 │
 ├── data/
-│   └── sample_havanaa-mall.csv
+│   └── havanaa-mall-dataset.csv
 │
 ├── sql/
 │   ├── 01_data_cleaning.sql
@@ -97,13 +97,13 @@ havana mall performance-customer-intelligence-analysis/
 │
 ├── dashboard/
 │   ├── havana-mall_dashboard.xlsx
-│   └── dashboard_screenshot.png
+│  
 │
 ├── reports/
 │   └── business_insights_report.pdf
 │
 ├── images/
-│   └── dashboard_preview.png
+│   └── havana-mall-dashboard.png
 │
 └── README.md
 ```
